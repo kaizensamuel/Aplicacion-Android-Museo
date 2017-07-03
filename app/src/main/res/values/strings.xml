@@ -1,0 +1,210 @@
+<resources>
+
+    <!-- TITULOS -->
+    <string name="app_name">Museo</string>
+    <string name="planificacion">Colección</string>
+    <string name="salas">Salas del museo</string>
+    <string name="salir">Salir</string>
+    <string name="cabecera">¿Qué quieres ver?</string>
+    <string name="lista_cuadros">Cuadros del museo</string>
+    <string name="titulo_autores">Lista de autores</string>
+    <string name="autor">Autores</string>
+    <string name="estilo">Estilos</string>
+    <string name="cuadros">Cuadros</string>
+    <string name="lista_salas">Salas</string>
+
+    <!-- VARIABLES SALAS -->
+    <string name="sala1_desc">Sala 1</string>
+    <string name="sala2_desc">Sala 2</string>
+    <string name="sala3_desc">Sala 3</string>
+
+    <!-- VARIABLES ESTILOS -->
+    <string name="estilo1">Renacimiento</string>
+    <string name="estilo1_desc">
+        La pintura renacentista se caracterizó por la conquista de la
+        perspectiva y el dominio del espacio. El color, la composición
+        y las escenas de fondo se usaban para creas distintos planos y
+        conseguir dar la sensación de profundidad.
+
+        Los pintores se inspiraban en la Antigüedad Clásica por lo que
+        cuidaban mucho las proporciones y la belleza, idealizando rostros,
+        cuerpos y movimientos. Aunque seguían realizándose muchas escenas
+        de orientaciónn relogiosa, también se representaban escenas
+        mitológicas, desnudos y retratos.
+
+        \n\nAutores destacados:
+            \n\t\t\t- Leonardo Da Vinci.
+            \n\t\t\t- Miguel Ángel.
+            \n\t\t\t- Rafael Sanzio.
+            \n\t\t\t- Tiziano.
+    </string>
+    <string name="estilo2">Barroco</string>
+    <string name="estilo2_desc">
+        Este estilo se caracteriza por sus formas voluptuosas y exageradas,
+        y las figuras cobran expresividad hasta el punto en que aparecen
+        envueltas en mórbidas telas creando actitudes petéticas y dramáticas,
+        a veces incluso imposibles.
+
+        Se busca representar la realidad mediante un acentuado naturalismo,
+        recurriendo para ello a lo feo o viejo y el color se convierte en el
+        principal protagonista. Es importante destacar que
+        el dominio de la tercera dimensión, el volumen y la profundidad son
+        absolutos.
+
+        \n\nAutores destacados:
+            \n\t\t\t- Diego Velazquez.
+            \n\t\t\t- Caravaggio.
+            \n\t\t\t- José de Ribera.
+    </string>
+    <string name="estilo3">Realismo</string>
+    <string name="estilo3_desc">
+        En el Realismo, se rechaza el subjetivismo y la evasión del arte
+        Romántico. Se defiende de la realidad con el deseo de transformarla.
+        Es una pintura totalmente objetiva y representa la vida cotidiana,
+        presentando manifiestos de crítica social, sin atarse a convencionalismos
+        ni a cualquier tipo de idealización.
+
+        \n\nAutores destacados:
+            \n\t\t\t- Gustave Courbet.
+            \n\t\t\t- Salvador Dalí.
+    </string>
+
+    <!-- VARIABLES AUTORES -->
+    <string name="autor1_desc">Este autor renacentista es considerado como uno de los
+        más grandes pintores de todos los tiempos así como, probablemente
+        la persona con el mayor número de talentos en múltiples disciplinas
+        que jamás ha existido. Su asociación histórica más famosa es la
+        pintura, destacando: \"La Gioconda\" y \"La Última Cena\".
+    </string>
+    <string name="autor2_desc">Miguel Ángel destacó también con cierto talento en
+        el sector de la pintura y la escultura. Dentro de la escultura, fue el creador
+        del famoso \"David\" situado en Florencia, y en cuanto a su dedicación como pintor
+        destacó con el \"fresco de la bóveda de la Capilla Sixtina.\"
+    </string>
+    <string name="autor3_desc">Fue un pintor y arquitecto italiano perteneciente al
+        Renacimiento. También se dedicó a la inspección de antigüedades, como por ejemplo
+        en el estudio y conservación de los vestigios grecorromanos.
+    </string>
+    <string name="autor4_desc">Tiziano fue uno de los mayores exponentes de la
+        Escuela veneciana. Era reconocido por sus contemporáneos como \"el sol entre
+        las estrellas\". En cuanto a la pintura, destacaba por su realización de retratos,
+        paisajes, escenas mitológicas o cuadros religiosos.
+    </string>
+    <string name="autor5_desc">Este autor fue uno de los más reconocidos dentro de
+        la era del Barroco. Era un pintor español que tuvo influencia de Caravaggio y
+        sus seguidores. El cuadro más emblemático es, por supuesto, \"Las Meninas\".
+    </string>
+    <string name="autor6_desc">Caravaggio es considerado el primer exponente de la
+        pintura del Barroco, así como gran influencia para Diego Velazquez. Produjo
+        mayoritariamente pinturas con temática religiosa.
+    </string>
+    <string name="autor7_desc">José de Ribera es un pintor destacado de la escuela
+        española aunque sus obras fueron creadas íntegramente en Italia. Tuvo influencia
+        sobre D. Velazquez y Murillo, pintores locales en esa época.
+    </string>
+    <string name="autor8_desc">Pintor francés, fundados y máximo representante del
+        Realismo. Una de sus obras más relevantes es \"El taller del pintor\", donde refleja
+        a todas las personas que habían ejercido cierta influencia a lo largo de su vida.
+    </string>
+    <string name="autor9_desc">Salvador Dalí es conocido por sus impactantes y oníricas
+        imágenes surrealistas, las cuales tienen influencia y admiración por el arte
+        renacentista. Fue pintor, escultor, grabador, escenógrafo y escritor español
+        del siglo XX.
+    </string>
+
+    <string name="autor1">Leonardo Da Vinci</string>
+    <string name="autor2">Miguel Ángel</string>
+    <string name="autor3">Rafael Sanzio</string>
+    <string name="autor4">Tiziano</string>
+    <string name="autor5">Diego Velazquez</string>
+    <string name="autor6">Caravaggio</string>
+    <string name="autor7">José de Ribera</string>
+    <string name="autor8">Gustave Courbet</string>
+    <string name="autor9">Salvador Dalí</string>
+
+    <string name="fecha1">Renacimiento (1452-1519)</string>
+    <string name="fecha2">Renacimiento (1475-1564)</string>
+    <string name="fecha3">Renacimiento (1483-1520)</string>
+    <string name="fecha4">Renacimiento (1490-1576)</string>
+    <string name="fecha5">Barroco (1599-1660)</string>
+    <string name="fecha6">Barroco (1571-1610)</string>
+    <string name="fecha7">Barroco (1591-1652)</string>
+    <string name="fecha8">Realismo (1819-1877)</string>
+    <string name="fecha9">Realismo (1904-1989)</string>
+
+    <!-- VARIABLES CUADROS -->
+    <string name="nc1">La Gioconda</string>
+    <string name="nc2">La Última Cena</string>
+    <string name="nc3">La Virgen de las Rocas</string>
+    <string name="nc4">La Sagrada Familia</string>
+    <string name="nc5">Retrato de Cardenal</string>
+    <string name="nc6">Madonna Sixtina</string>
+    <string name="nc7">Venus de Urbino</string>
+    <string name="nc8">Flora</string>
+    <string name="nc9">Las Meninas</string>
+
+    <string name="fc1">(1503-1519)</string>
+    <string name="fc2">(1495-1497)</string>
+    <string name="fc3">(1483-1486)</string>
+    <string name="fc4">(1775)</string>
+    <string name="fc5">(1510)</string>
+    <string name="fc6">(1513-1514)</string>
+    <string name="fc7">(1538)</string>
+    <string name="fc8">(1515-1517)</string>
+    <string name="fc9">(1734)</string>
+
+    <string name="dc1">Leonardo Da Vinci se inspiró en dos modelos
+    para pintar \"La Gioconda\"\: la noble florentina Lisa Gherardini
+    y su pupilo predilecto, Gran Giacomo Caprotti, más conocido como Salai.
+    El rico comerciante florentino casado con Mona Lisa, contrató a Leonardo
+    para que retratara a su mujer, triste y melancólica, y para hacerla reír
+    recurrió a los servicios de juglares y payasos.</string>
+
+    <string name="dc2">Leonardo Da Vinci quiso plasmar en esta pintura
+    mural la última cena que Jesús tuvo con sus discípulos, pero más
+    importante aún, quiso mostrar la reacción de cada uno de los 12
+    discípulos cuando Jesús anuncia la certeza de que uno de los presentes
+    lo traicionará.</string>
+
+    <string name="dc3">En esta obra se representan la Virgen,
+    el Niño y San Juan Bautista, incluyendo tambien la figura
+    de un ángel. Leonardo Da Vinci plantea una composición piramidal
+    y centrada, ordenada mediante la disposición de las figuras y por
+    las actitudes de las mismas, que confluyen en la visión del Niño
+    como punto central.</string>
+
+    <string name="dc4">Esta obra es una representación de la pintura
+    realizada por Francisco de Goya para la decoración de la Basílica
+    del Pilar.</string>
+
+    <string name="dc5">Lo más llamativo de este retrato es la
+    extraordinaria perspicacia icástica de su autor, Rafael, capaz
+    de fijar la imagen definitiva y universal de un cardenal del
+    Renacimiento. No renuncia por ello a representar la singularidad
+    de este individuo.</string>
+
+    <string name="dc6">Esta obra de casi 9 pies de alto fue encargada
+    por el Papa Julio II en honor a su difunto tío, el Papa Sixto IV,
+    como un retablo para la iglesia de la basílica del Monasterio
+    benedictino de San Sisto en Piacenza, con la que la familia Rovere
+    tenía una extensa relación. La comisión requería que la pintura
+    representara dos Santos\: Sixto y Bárbara.</string>
+
+    <string name="dc7">La pintura representa la alegoría al matrimonio
+    y era un modelo \"didáctico\" para Giulia Varano, la joven esposa,
+    de erotismo, fidelidad y maternidad. Es muy interesante e
+    intrigante por sus muchos significados ocultos.</string>
+
+    <string name="dc8">Diosa de la primavera y, por extensión, de
+    las flores y los jardines, representa la fertilidad en la mitología
+    latina.</string>
+
+    <string name="dc9">Es una de las obras de mayor tamaño
+    de Velazquez y en la que puso un mayor empeño para crear
+    una composición a la vez compleja y creíble, que transmitiera
+    la sensación de vida y realidad, y al mismo tiempo encerrara
+    una densa red de significados.
+    </string>
+
+
+</resources>
